@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 📧 laithshono.dev@gmail.com
 - 🌐 [Elforl.github.io](https://elforl.github.io/)
 - 🐛 [StackOverflow/elfor](https://stackoverflow.com/users/12571630/elfor)
 - ✍ [medium.com/@elfor](https://medium.com/@elfor)
