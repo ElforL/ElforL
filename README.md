@@ -4,6 +4,7 @@
 - 🐛 [StackOverflow/elfor](https://stackoverflow.com/users/12571630/elfor)
 - ✍ [medium.com/@elfor](https://medium.com/@elfor)
 - 💼 [LinkedIn](https://linkedin.com/in/laith-shono-a88159214)
+- 📱 [Google Play](https://play.google.com/store/apps/dev?id=6771523431017919977)
 - 🌍 Riyadh, Saudi Arabia
 
 
