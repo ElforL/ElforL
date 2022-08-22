@@ -9,7 +9,7 @@
 - <img height=17 src="https://user-images.githubusercontent.com/57017872/180889928-e87ae9bc-d80b-41c8-817d-5169f3641f0c.png"> [/elfor](https://stackoverflow.com/users/12571630/elfor)
 
 <!-- LinkedIn -->
-- <img height=17 src="https://user-images.githubusercontent.com/57017872/180888825-00738eba-f1fa-4d2d-8ef8-233c715502ba.png"> [/in/laith-shono-a88159214](https://linkedin.com/in/laith-shono-a88159214)
+- <img height=17 src="https://user-images.githubusercontent.com/57017872/180888825-00738eba-f1fa-4d2d-8ef8-233c715502ba.png"> [/in/laith-shono](https://linkedin.com/in/laith-shono/)
 
 <!-- Medium -->
 - <img height=17 src="https://user-images.githubusercontent.com/57017872/180889812-1c8faace-44b4-4290-bff2-f52e3fa9a617.png"> [Medium/@elfor](https://medium.com/@elfor)
