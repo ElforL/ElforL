@@ -2,7 +2,7 @@
 
 <!-- Portfolio -->
 ### Personal portfolio 🌐
-- [elforl.github.io/](https://elforl.github.io/)
+- [laithshono.dev/](https://laithshono.dev/)
 
 ### Available at
 <!-- StackOverflow -->
